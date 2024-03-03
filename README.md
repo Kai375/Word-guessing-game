@@ -1,6 +1,6 @@
 # Word guessing game
 
-Word guessing game project. Made with java.
+Word guessing game project.
 
 # Game description:
 
